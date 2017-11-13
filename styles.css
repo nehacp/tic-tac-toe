@@ -1,0 +1,18 @@
+.game-box {
+  margin: auto;
+  /* border: 1px solid; */
+  width: 600px;
+  height: 600px;
+}
+
+.one-box {
+  border: 1px solid;
+  width: 200px;
+  height: 200px;
+}
+
+.players {
+  font-size: 20px;
+  margin-right: 50px;
+}
+
